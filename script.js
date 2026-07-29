@@ -21,7 +21,21 @@ const wordBank = [
   { eng: "certain", ch: "特定的、肯定的(adj.)" },
   { eng: "as long as", ch: "只要" },
   { eng: "instead of", ch: "與其、反而" },
-  { eng: "extreme", ch: "極端的(adj.)" }
+  { eng: "extreme", ch: "極端的(adj.)" },
+  { eng: "show up", ch: "現身、出現" },
+  { eng: "past", ch: "過了(prep.)" },
+  { eng: "appointed", ch: "指定的(adj.)" },
+  { eng: "even", ch: "甚至(adv.)" },
+  { eng: "avoid", ch: "避免(v.) +Ving" },
+ { eng: "situation", ch: "情況(n.)" },
+ { eng: "instead", ch: "反而(adv.)" },
+ { eng: "emphasis", ch: "強調的重點(n.) +on" },
+ { eng: "during", ch: "在...期間(prep.)" },
+ { eng: "machinery", ch: "機器設備(n.)" },
+ { eng: "demand", ch: "強烈要求(v.)" },
+ { eng: "punch in", ch: "打卡上班" },
+ { eng: "tight", ch: "緊湊的(adj.)" },
+ { eng: "schedule", ch: "行程(n.)" }
 ];
 
 // 2. 遊戲狀態與記錄變數
