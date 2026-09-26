@@ -2,7 +2,6 @@
 const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbzlo0feZG57o8F7D2Jj7mPSIX77KG3pjO79PXPgE5ek6K5OBzwI6YaE4_gavdLp_gQosQ/exec';
 
 const wordBank = [
-const wordBank = [
  { eng: "athlete", ch: "運動員(n.)" },
    { eng: "tough", ch: "艱難的(adj.)" },
   { eng: "survive", ch: "生存(v.)" },
@@ -52,7 +51,39 @@ const wordBank = [
    { eng: "concept", ch: "概念(n.)" },
    { eng: "barely", ch: "幾乎不(adv.)" },
    { eng: "lose track of...", ch: "忘記..." },
-   { eng: "run deep", ch: "深植內心" }
+   { eng: "run deep", ch: "深植內心" },
+ {eng: "pursue", ch: "追求(v.)"},
+  {eng: "strike", ch: "處於某種狀態(v.)"},
+  {eng: "dumb", ch: "說不出話的(adj.)"},
+  {eng: "sacrifice", ch: "犧牲(v., n.)"},
+  {eng: "surgery", ch: "手術(n.)"},
+  {eng: "restrict", ch: "限制(v.)"},
+  {eng: "fatal", ch: "致命的(adj.)"},
+  {eng: "operation", ch: "手術、運作(n.)"},
+  {eng: "drill", ch: "鑽(孔、洞) (v.)"},
+  {eng: "metal", ch: "金屬(n.)"},
+  {eng: "gap", ch: "裂口、缺口(n.)"},
+  {eng: "guarantee", ch: "保證、承諾(v., n.)"},
+  {eng: "waist", ch: "腰(n.)"},
+  {eng: "internal", ch: "內部的(adj.)"},
+  {eng: "organ", ch: "器官(n.)"},
+  {eng: "permanently", ch: "永久地(adv.)"},
+  {eng: "accident", ch: "意外(n.)"},
+  {eng: "unappealing", ch: "不吸引人的(adj.)"},
+  {eng: "pale", ch: "蒼白的(adj.)"},
+  {eng: "unpleasant", ch: "令人不悅的(adj.)"},
+  {eng: "strengthen", ch: "增強(v.)"},
+  {eng: "cheerful", ch: "高興的(adj.)"},
+   {eng: "advantage", ch: "優勢、好處(n.)"},
+  {eng: "measure", ch: "措施、方法(n.)"},
+  {eng: "multiple", ch: "多個(adj.)"},
+  {eng: "proper", ch: "適當的(adj.)"},
+  {eng: "be dying to do sth.", ch: "非常渴望做某事"},
+  {eng: "go to extremes", ch: "採取極端手段"},
+  {eng: "come first", ch: "擺在首位、最為重要"},
+  {eng: "in brief", ch: "簡言之"},
+  {eng: "stick to sth.", ch: "維持(原訂)計畫、堅持某事"},
+  {eng: "what's the use of doing sth.", ch: "做某事沒意義"}
 ];
 
 let currentQueue = [];
