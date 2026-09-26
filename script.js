@@ -1,8 +1,8 @@
 // 已填入您的 Google Apps Script Web App 部署 URL
-const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbzlo0feZG57o8F7D2Jj7mPSIX77KG3pjO79PXPgE5ek6K5OBzwI6YaE4_gavdLp_gQosQ/exec';
+const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwZdYYje8kyKexbBiEryTnrWOfQ5U4EpUSFYpaKy4rX3NiYCjmsbl6zeIBdNoB8q_rICw/exec';
 
 const wordBank = [
- { eng: "athlete", ch: "運動員(n.)" },
+{ eng: "athlete", ch: "運動員(n.)" },
    { eng: "tough", ch: "艱難的(adj.)" },
   { eng: "survive", ch: "生存(v.)" },
   { eng: "search", ch: "搜尋(v.)" },
